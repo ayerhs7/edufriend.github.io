@@ -139,6 +139,7 @@ nav ul li a
 #intro
 {
    hright:10em;
+   font-family: 'Times New Roman', Times, serif;
    text-align:center;
    background-color:red;
 }
